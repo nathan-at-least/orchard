@@ -6,3 +6,12 @@
 #![deny(missing_debug_implementations)]
 #![deny(missing_docs)]
 #![deny(unsafe_code)]
+
+mod address;
+mod bundle;
+mod circuit;
+mod keys;
+mod note;
+mod primitives;
+mod tree;
+mod value;
